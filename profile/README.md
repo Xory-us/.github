@@ -55,30 +55,33 @@ We are a **next-generation consortium** of for-profit and nonprofit organization
 <summary><b>🚀 Core Languages & Frameworks</b></summary>
 
 ```
-🐍 Python    🦀 Rust      ⚡ C++        📘 TypeScript   🐹 Go
-🔮 Julia     🍎 Swift     🤖 Kotlin     🌐 JavaScript   💻 Bash
+🦀 Rust     🐹 Go      📘 TypeScript    🌐 JavaScript    🐍 Python  
+🔷 Swift    🤖 Kotlin   🧱 C#            ⚡ C++           🟪 Scala  
+🛠️ Zig      🦕 D       🌱 Crystal      🦠 Julia         🔶 Elixir  
 ```
 
-**Artificial Intelligence & Machine Learning Powerhouse**
-```
-PyTorch • TensorFlow • Computer Vision Libraries • OpenCV • YOLO Object Detection
-Stable Diffusion • Deep Learning • Reinforcement Learning • Natural Language Processing
-Scikit-learn • Keras • TensorBoard • Jupyter Notebooks • Google Colab
-```
+**Artificial Intelligence and Machine Learning Powerhouse**  
+PyTorch • TensorFlow • Keras • Scikit-learn • TensorBoard • Hugging Face Transformers  
+Deep Learning • Reinforcement Learning • Natural Language Processing • Generative Models  
+Stable Diffusion • Generative Adversarial Networks • Automated Machine Learning • Transfer Learning  
+Self-supervised Learning • Bayesian Methods • Hyperparameter Tuning • Model Compression  
 
-**🔍 Computer Vision & Image Processing**
-```
-OpenCV • PIL (Python Imaging) • Scikit-image • ImageIO • Matplotlib
-YOLO (You Only Look Once) • R-CNN • Mask R-CNN • ResNet • VGG Networks
-MediaPipe • Face Recognition • Optical Character Recognition
-```
+**🔍 Computer Vision and Image Processing**  
+Open Source Computer Vision Library • You Only Look Once Object Detection • Region-based Convolutional Neural Networks  
+Mask Region-based Convolutional Neural Networks • Faster Region-based Convolutional Neural Networks  
+Residual Neural Networks • Visual Geometry Group Networks • Efficient Neural Networks • Mobile Neural Networks  
+MediaPipe Framework • Optical Character Recognition • Face Recognition • Semantic Segmentation  
+Instance Segmentation • Feature Extraction • Keypoint Detection • Image Augmentation  
+Three-dimensional Vision • Depth Estimation  
 
-**📹 Video Processing & Analysis**
-```
-FFmpeg • OpenCV Video • MoviePy • VidGear • PyAV
-Real-time Streaming • Motion Detection • Object Tracking
-Video Compression • Frame Analysis • Live Broadcasting
-```
+**📹 Video Processing and Analysis**  
+FFmpeg Multimedia Framework • Open Source Computer Vision Video Module • MoviePy Video Editing Library  
+VidGear Video Processing Framework • PyAV Pythonic Bindings for FFmpeg • GStreamer Multimedia Framework  
+Real-time Video Streaming • Motion Detection • Object Tracking • Multi-object Tracking  
+Video Compression • Frame Analysis • Live Video Broadcasting • Video Stabilization  
+Background Subtraction • Event Detection • Spatiotemporal Video Analysis • Video Summarization  
+Video Anomaly Detection  
+
 
 </details>
 
