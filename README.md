@@ -248,13 +248,6 @@ mindmap
 
 ---
 
-## 🤝 **Get Involved**
-
-<div align="center">
-
-[![Contribute](https://img.shields.io/badge/🛠%20Contribute-Open%20Source-4ECDC4?style=for-the-badge)](https://github.com/Xory-us?tab=repositories)
-[![Research](https://img.shields.io/badge/🧠%20Research-Papers-45B7D1?style=for-the-badge)](https://github.com/Xory-us/research)
-
 ### **Learn More About Our Technologies**
 
 [![Computer Vision Guide](https://img.shields.io/badge/📸%20Computer%20Vision-Learn%20More-9B59B6?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
