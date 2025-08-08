@@ -28,22 +28,22 @@ We are a **next-generation consortium** of for-profit and nonprofit organization
 <tr>
 <td width="50%">
 
-### 🤖 **AI & Machine Learning**
-- **Agentic AI Systems** & **Multimodal Models**
-- **Large Language Models (LLMs)** & **Foundation Models**
-- **Reinforcement Learning from Human Feedback (RLHF)**
-- **Federated Learning** & **Edge AI Optimization**
-- **AutoML** & **Neural Architecture Search (NAS)**
+### 🤖 **Artificial Intelligence & Computer Vision**
+- **Object Detection** & **Image Recognition Systems**
+- **Video Processing** & **Real-time Streaming Analysis**
+- **Facial Recognition** & **Gesture Recognition Technology**
+- **Medical Image Analysis** & **Satellite Image Processing**
+- **Augmented Reality** & **Virtual Reality Applications**
 
 </td>
 <td width="50%">
 
-### 🦾 **Robotics & Automation**
-- **Autonomous Systems** & **Computer Vision**
-- **Human-Robot Interaction (HRI)**
-- **Real-time Control Systems** & **Motion Planning**
-- **Sensor Fusion** & **SLAM Algorithms**
-- **Industrial Automation** & **Service Robotics**
+### 🦾 **Autonomous & Mobile Robotics**
+- **Self-Driving Vehicles** & **Navigation Systems**
+- **Drone Technology** & **Unmanned Aerial Systems**
+- **Warehouse Automation** & **Delivery Robots**
+- **Smart Home Assistants** & **Service Robots**
+- **Industrial Assembly** & **Quality Control Systems**
 
 </td>
 </tr>
@@ -61,11 +61,25 @@ We are a **next-generation consortium** of for-profit and nonprofit organization
 🔮 Julia     🍎 Swift     🤖 Kotlin     🌐 JavaScript   💻 Bash
 ```
 
-**AI/ML Powerhouse**
+**Artificial Intelligence & Machine Learning Powerhouse**
 ```
-PyTorch • TensorFlow • JAX • Hugging Face Transformers • OpenAI GPT
-Stable Diffusion • RLHF • PEFT • Deep RL • AutoML • MLflow • Kubeflow
-ONNX • Apache TVM • Ray • Weights & Biases • ClearML
+PyTorch • TensorFlow • Computer Vision Libraries • OpenCV • YOLO Object Detection
+Stable Diffusion • Deep Learning • Reinforcement Learning • Natural Language Processing
+Scikit-learn • Keras • TensorBoard • Jupyter Notebooks • Google Colab
+```
+
+**🔍 Computer Vision & Image Processing**
+```
+OpenCV • PIL (Python Imaging) • Scikit-image • ImageIO • Matplotlib
+YOLO (You Only Look Once) • R-CNN • Mask R-CNN • ResNet • VGG Networks
+MediaPipe • Face Recognition • Optical Character Recognition
+```
+
+**📹 Video Processing & Analysis**
+```
+FFmpeg • OpenCV Video • MoviePy • VidGear • PyAV
+Real-time Streaming • Motion Detection • Object Tracking
+Video Compression • Frame Analysis • Live Broadcasting
 ```
 
 </details>
@@ -132,29 +146,17 @@ WebAssembly (WASM) • Progressive Web Apps (PWA)
 
 <div align="center">
 
-| **Development** | **Operations** | **AI/ML** |
+| **Development** | **Operations** | **Artificial Intelligence** |
 |:---:|:---:|:---:|
-| Agile (Scrum, Kanban) | MLOps & DataOps | Model-Centric Programming |
-| Test-Driven Development | GitOps & IaC | Continuous ML (CML) |
-| Domain-Driven Design | Site Reliability Engineering | A/B Testing for ML |
+| Test-Driven Development | Machine Learning Operations | Model Training & Deployment |
+| Code Review Standards | DevOps & Infrastructure | Computer Vision Pipelines |
+| Domain-Driven Design | Site Reliability Engineering | Continuous Model Improvement |
 
 </div>
 
 ---
 
-## 💎 **Featured Repositories**
 
-<div align="center">
-
-[![Core AI Framework](https://github-readme-stats.vercel.app/api/pin/?username=Xory-us&repo=core-ai&theme=dark&bg_color=0d1117&border_color=30363d)](https://github.com/Xory-us/core-ai)
-[![Robotics Middleware](https://github-readme-stats.vercel.app/api/pin/?username=Xory-us&repo=robotics-control&theme=dark&bg_color=0d1117&border_color=30363d)](https://github.com/Xory-us/robotics-control)
-
-[![Cloud Orchestration](https://github-readme-stats.vercel.app/api/pin/?username=Xory-us&repo=cloud-infra&theme=dark&bg_color=0d1117&border_color=30363d)](https://github.com/Xory-us/cloud-infra)
-[![MLOps Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=Xory-us&repo=mlops-pipelines&theme=dark&bg_color=0d1117&border_color=30363d)](https://github.com/Xory-us/mlops-pipelines)
-
-</div>
-
----
 
 ## 🌟 **Why Join Xory?**
 
