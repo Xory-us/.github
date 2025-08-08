@@ -110,10 +110,20 @@ Snowflake • ClickHouse • TimescaleDB • Apache Druid • Apache Airflow
 <details>
 <summary><b>🤖 Robotics & Edge Computing</b></summary>
 
-**Next-Gen Robotics Stack**
+**🤖 Autonomous & Mobile Robotics Stack**
 ```
-ROS2 • NVIDIA Jetson • PX4 • RTI Connext DDS • Edge AI (NVIDIA Clara, Intel OpenVINO)
-TinyML • Federated Learning • CUDA • OpenCV • PCL (Point Cloud Library)
+Robot Operating System 2 (ROS2) • NVIDIA Jetson • PX4 Flight Controller
+Real-time Communication • Edge Computing • TinyML • Federated Learning
+CUDA Programming • OpenCV Computer Vision • Point Cloud Processing
+Path Planning • Obstacle Avoidance • Simultaneous Localization and Mapping
+```
+
+**🎯 Computer Vision & Image Analysis**
+```
+Image Classification • Object Detection • Semantic Segmentation
+3D Vision Systems • Stereo Vision • Depth Estimation
+Medical Imaging • Satellite Analysis • Quality Inspection
+Real-time Processing • Edge Deployment • Mobile Vision
 ```
 
 </details>
@@ -199,22 +209,22 @@ WebAssembly (WASM) • Progressive Web Apps (PWA)
 ```mermaid
 mindmap
   root((XORY 2025))
-    Generative AI
+    Generative Artificial Intelligence
       Multimodal Models
       Code Generation
       Scientific Discovery
     Autonomous Systems
       Self-Driving Vehicles
-      Drone Swarms
+      Drone Technology
       Industrial Robots
+    Computer Vision
+      Real-time Processing
+      Medical Imaging
+      Quality Control
     Edge Computing
       Real-time Inference
-      Federated Learning
-      IoT Integration
-    Quantum-Ready AI
-      Hybrid Algorithms
-      Optimization
-      Cryptography
+      Mobile Deployment
+      Internet of Things Integration
 ```
 
 ---
@@ -225,12 +235,12 @@ mindmap
 
 **🔥 HIGH-DEMAND ROLES 🔥**
 
-| **AI/ML Engineers** | **Robotics Engineers** | **Platform Engineers** |
+| **Artificial Intelligence Engineers** | **Robotics Engineers** | **Platform Engineers** |
 |:---:|:---:|:---:|
-| LLM Specialists | Controls Engineers | DevOps/SRE |
-| Computer Vision | Perception Engineers | Cloud Architects |
-| NLP Researchers | Motion Planning | Security Engineers |
-| MLOps Engineers | Hardware Integration | Full-Stack Developers |
+| Large Language Model Specialists | Controls Engineers | DevOps Engineers |
+| Computer Vision Engineers | Perception Engineers | Cloud Architects |
+| Natural Language Processing | Motion Planning Engineers | Security Engineers |
+| Machine Learning Operations | Hardware Integration | Full-Stack Developers |
 
 **💰 Competitive packages • 📈 Equity upside • 🌴 Unlimited PTO**
 
@@ -242,18 +252,34 @@ mindmap
 
 <div align="center">
 
-### **Ready to Shape the Future?**
-
-[![Careers](https://img.shields.io/badge/🚀%20View%20Careers-Join%20Us-FF6B6B?style=for-the-badge)](https://github.com/Xory-us/careers)
 [![Contribute](https://img.shields.io/badge/🛠%20Contribute-Open%20Source-4ECDC4?style=for-the-badge)](https://github.com/Xory-us?tab=repositories)
 [![Research](https://img.shields.io/badge/🧠%20Research-Papers-45B7D1?style=for-the-badge)](https://github.com/Xory-us/research)
 
+### **Learn More About Our Technologies**
+
+[![Computer Vision Guide](https://img.shields.io/badge/📸%20Computer%20Vision-Learn%20More-9B59B6?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Robotics Resources](https://img.shields.io/badge/🤖%20Robotics-Resources-FF9800?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
+[![Autonomous Systems](https://img.shields.io/badge/🚗%20Autonomous%20Systems-Explore-795548?style=for-the-badge&logo=self-driving-car&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/)
+[![Video Processing](https://img.shields.io/badge/📹%20Video%20Processing-Discover-E91E63?style=for-the-badge&logo=video&logoColor=white)](https://ffmpeg.org/)
+
+### **Our Ecosystem**
+
+[![Aicody](https://img.shields.io/badge/🧠%20Aicody-Artificial%20Intelligence-FF6B6B?style=for-the-badge)](https://aicody.com/main/)
+[![Xory](https://img.shields.io/badge/🚀%20Xory-Robotics%20Consortium-4ECDC4?style=for-the-badge)](https://xory.us/main/)
+[![Aideo](https://img.shields.io/badge/💡%20Aideo-Innovation%20Lab-45B7D1?style=for-the-badge)](https://aideo.us/main/)
+[![Aid Platform](https://img.shields.io/badge/🛠%20Aid-Development%20Tools-9B59B6?style=for-the-badge)](https://aid.aideo.us/)
+
 ### **Connect With Us**
 
-[![Website](https://img.shields.io/badge/🌐%20Website-xory.ai-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://xory.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xory-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/xory)
-[![Twitter](https://img.shields.io/badge/Twitter-@XoryAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xoryai)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xory)
+[![LinkedIn Aicody](https://img.shields.io/badge/LinkedIn-Aicody-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aicody/about/)
+[![LinkedIn Xory](https://img.shields.io/badge/LinkedIn-Xory-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/xoryus/about/)
+
+### **Contact Us**
+
+📧 **Email**: team@xory.us | team@aicody.com | team@aideo.us  
+📍 **Address**: 5 Thomas Mellon Circle, Suite 154, San Francisco CA 94134 USA
+
+</div>
 
 </div>
 
