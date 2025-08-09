@@ -8,7 +8,7 @@
 
 ### *Pioneering the Future Through Artificial Intelligence Systems & Robotics*
 
-**🌟 Where Artificial Intelligence Systems Meets Advanced Robotics 🌟**
+**🌟 Where Artificial Intelligence Systems Meet Advanced Robotics 🌟**
 
 ---
 
