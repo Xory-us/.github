@@ -360,7 +360,9 @@ mindmap
 ### **Contact Us**
 
 📧 **Email**: team@xory.us | team@aicody.com | team@aideo.us  
-📱 **Phone/Text**: 1-415-952-7773 | 1-415-439-0773 | 1-332-203-3337 | 1-307-429-2424
+
+📱 **Phone/Text**: 1-415-952-7773 | 1-415-439-0773 | 1-332-203-3337 | 1-307-429-2424 
+
 📍 **Address**: 5 Thomas Mellon Circle, Suite 154, San Francisco CA 94134 USA
 
 
