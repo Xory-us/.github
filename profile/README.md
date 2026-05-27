@@ -1,390 +1,65 @@
-# <div align="center"> **XORY** </div>
+# Xory Co.
 
-<div align="center">
-  
-![Xory Banner](https://img.shields.io/badge/AI%20%2B%20Robotics-Consortium-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Innovation](https://img.shields.io/badge/Innovation-First-4ECDC4?style=for-the-badge&logo=lightbulb&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open-Source-45B7D1?style=for-the-badge&logo=github&logoColor=white)
+**Technology Holdings in Autonomous Systems, Real-Time AI, and Digital Currency**
 
-### *Pioneering the Future Through Artificial Intelligence Systems & Robotics*
-
-**🌟 Where Artificial Intelligence Systems Meet Advanced Robotics 🌟**
+[Portfolio](https://youtu.be/78Y5ukojlSM) · [Xory](https://xory.us/main) · [AWZ](https://awz.us/docs) · [Aideo](https://aideo.us/main) · [Aicody](https://aicody.com/main) · [HXA](https://hxa.us/docs) · [5AI](https://5ai.us/main)
 
 ---
 
-</div>
+## Overview
 
-## 🎯 **Our Mission**
-
-We are a **next-generation consortium** of for-profit and nonprofit organizations at the forefront of **artificial intelligence** and **robotics innovation**. Our mission: to develop **transformative artificial intelligence systems** that serve humanity while pushing the boundaries of what's technologically possible.
-
-**💡 Dynamic artificial intelligence systems and mobile robots are shaping the future*
+Xory Co. is a technology holding company valued at $90 million, operating across three independent business classes: Xory Co. and its AI subsidiaries, HXA an independent digital currency company holding $10 billion in proprietary pre-launch cryptocurrency, and a portfolio of nonprofit research and development organizations. The founding team brings over 100 years of combined experience in distributed systems and defense technology, with a proven record of delivery across government and enterprise programs.
 
 ---
 
-## 🧠 **What We Do**
+## AWZ — Air Wing Zero
 
-<table>
-<tr>
-<td width="50%">
+AWZ is Xory's flagship product: a fully autonomous vertical takeoff and landing aircraft with a verified 1,000-mile operational range. AWZ flies, navigates, and lands entirely on its own — no pilot required, no remote operator. It is built for long-range point-to-point transport in environments where conventional aviation infrastructure does not exist.
 
-### 🤖 **Artificial Intelligence Systems**
-- **Object Detection** & **Image Recognition Systems**
-- **Video Processing** & **Real-time Low-Latency Streaming Products**
+The airframe is a single-occupant enclosed carbon fiber and titanium monocoque — no external viewports, no canopy. Situational awareness and autonomous navigation are delivered entirely through a redundant twelve-camera stereoscopic array and four solid-state lidar sensors, processed by triple-redundant NVIDIA Jetson AGX Orin computing modules in a two-out-of-three voting architecture. Propulsion centers on a Safran Arriel 2D turboshaft engine rated at 952 shaft horsepower driving six distributed ducted lift fans for vertical flight and a contra-rotating pusher propeller for cruise at 195 miles per hour. Maximum takeoff weight is 1,293 kilograms carrying 380 kilograms of Jet-A fuel, delivering energy efficiency of 0.00008 kWh per passenger-mile — 6.4x better than comparable aircraft in its class.
 
+AWZ supports four operational environments from a single airframe: aerial cruise, ground surface, open water surface, and submersible operations to 200-meter depth via a bolt-on pressure hull kit. Emergency systems include a whole-aircraft ballistic parachute, autonomous emergency landing, crashworthy occupant cell, pyrotechnic side hatch egress, and an ACR ARTEX ELT 4000 emergency beacon. The vehicle requires no type certificate for experimental operations and is progressing toward powered-lift certification under 14 CFR Part 21.
 
-</td>
-<td width="50%">
-
-### 🦾 **Autonomous & Mobile Robotics**
-- **Self-Driving Vehicles** & **Navigation Systems**
-- **Drone Technology** & **Unmanned Aerial Systems**
-- **Warehouse Automation** & **Delivery Robots**
-- **Intelligent Assistants** & **Service Robots**
-- **Industrial Assembly** & **Quality Control Systems**
-
-</td>
-</tr>
-</table>
+Full technical documentation: [awz.us/docs](https://awz.us/docs)
 
 ---
 
-## 🔥 **Technology Stack**
+## Aideo — Autonomous Video Analytics
 
-<details>
-<summary><b>🚀 Core Languages & Frameworks</b></summary>
+Aideo is a real-time video analytics platform purpose-built for professional soccer. It uses deep neural networks and Xory's own proprietary small modular data center architecture to deliver match analysis, player tracking, and performance intelligence to professional clubs without manual review or third-party annotation pipelines. Aideo currently serves 3,986 professional clubs globally in a market valued at $26 billion growing at 24 percent annually.
 
-```
-🦀 Rust     🐹 Go      📘 TypeScript    🌐 JavaScript    🐍 Python  
-🔷 Swift    🤖 Kotlin   🧱 C#            ⚡ C++           🟪 Scala  
-🛠️ Zig      🦕 D       🌱 Crystal      🦠 Julia         🔶 Elixir  
-```
-
-</details>
-
-<details>
-<summary><b>🧠 Artificial Intelligence & Machine Learning Powerhouse</b></summary>
-
-<div align="center">
-
-| **🔥 Core ML Frameworks** | **⚡ Deep Learning** | **🎯 Advanced Techniques** |
-|:---:|:---:|:---:|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=flat-square&logo=deepmind&logoColor=white) | ![AutoML](https://img.shields.io/badge/AutoML-4ECDC4?style=flat-square&logo=googlecloud&logoColor=white) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Reinforcement Learning](https://img.shields.io/badge/RL-9B59B6?style=flat-square&logo=robot&logoColor=white) | ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-45B7D1?style=flat-square&logo=transferwise&logoColor=white) |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![NLP](https://img.shields.io/badge/NLP-E91E63?style=flat-square&logo=language&logoColor=white) | ![Self-Supervised](https://img.shields.io/badge/Self%20Supervised-795548?style=flat-square&logo=learning&logoColor=white) |
-| ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Generative Models](https://img.shields.io/badge/Generative%20AI-FF9800?style=flat-square&logo=openai&logoColor=white) | ![Bayesian Methods](https://img.shields.io/badge/Bayesian-607D8B?style=flat-square&logo=statistics&logoColor=white) |
-
-</div>
-
-**🌟 Advanced AI Technologies**
-```
-🤗 Hugging Face Transformers • 🎨 Stable Diffusion • 🔥 Generative Adversarial Networks
-📊 TensorBoard • 🔄 Hyperparameter Tuning • 📦 Model Compression • 🎯 Automated ML
-```
-
-</details>
-
-<details>
-<summary><b>🔍 Computer Vision & Image Processing Excellence</b></summary>
-
-<div align="center">
-
-### **🎯 Object Detection Powerhouse**
-
-| **Architecture** | **Specialization** | **Performance** |
-|:---:|:---:|:---:|
-| ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) | Real-time Detection | ⚡ Ultra-Fast |
-| ![R-CNN](https://img.shields.io/badge/R--CNN-FF1744?style=for-the-badge&logo=cnn&logoColor=white) | High Accuracy | 🎯 Precision |
-| ![Mask R-CNN](https://img.shields.io/badge/Mask%20R--CNN-9C27B0?style=for-the-badge&logo=mask&logoColor=white) | Instance Segmentation | 🎨 Pixel Perfect |
-
-### **🏗️ Neural Network Architectures**
-
-![ResNet](https://img.shields.io/badge/ResNet-2196F3?style=flat-square&logo=residual&logoColor=white)
-![VGG](https://img.shields.io/badge/VGG-4CAF50?style=flat-square&logo=vgg&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-FF5722?style=flat-square&logo=efficient&logoColor=white)
-![MobileNet](https://img.shields.io/badge/MobileNet-E91E63?style=flat-square&logo=mobile&logoColor=white)
-
-### **🛠️ Processing Frameworks**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white)
-
-</div>
-
-**🔬 Advanced Vision Capabilities**
-```
-👁️ Optical Character Recognition • 🏃 Face Recognition • 🎨 Semantic Segmentation
-🔍 Feature Extraction • 📍 Keypoint Detection • 📸 Image Augmentation
-🌐 3D Vision Systems • 📏 Depth Estimation • 🎯 Instance Segmentation
-```
-
-</details>
-
-<details>
-<summary><b>📹 Video Processing & Real-time Analysis</b></summary>
-
-<div align="center">
-
-### **🎬 Video Processing Ecosystem**
-
-<table>
-<tr>
-<td width="50%">
-
-**⚡ Core Frameworks**
-```
-🎥 FFmpeg Multimedia Framework
-📹 OpenCV Video Module  
-🎞️ MoviePy Video Editing
-🔄 VidGear Processing Framework
-🐍 PyAV FFmpeg Bindings
-🌊 GStreamer Pipeline
-```
-
-</td>
-<td width="50%">
-
-**🚀 Real-time Capabilities**
-```
-📡 Live Video Streaming
-🎯 Motion Detection
-👀 Object Tracking  
-🔄 Multi-object Tracking
-📦 Video Compression
-🖼️ Frame Analysis
-```
-
-</td>
-</tr>
-</table>
-
-### **🎯 Advanced Video Intelligence**
-
-![Streaming](https://img.shields.io/badge/Real%20Time%20Streaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Broadcasting](https://img.shields.io/badge/Live%20Broadcasting-6441A4?style=for-the-badge&logo=twitch&logoColor=white)
-![Stabilization](https://img.shields.io/badge/Video%20Stabilization-00C851?style=for-the-badge&logo=stability&logoColor=white)
-
-</div>
-
-**🔍 Intelligent Video Analytics**
-```
-🎭 Background Subtraction • ⚡ Event Detection • 📊 Spatiotemporal Analysis
-📝 Video Summarization • 🚨 Anomaly Detection • 🎬 Scene Understanding
-```
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud-Native Infrastructure</b></summary>
-
-**Multi-Cloud Excellence**
-```
-AWS (Lambda, Fargate, EKS, SageMaker) • GCP (Vertex AI, BigQuery, Cloud Run)
-Azure (AKS, Cognitive Services) • Kubernetes • Docker • Helm • Istio
-Envoy • Prometheus • Grafana • ArgoCD • Terraform • Pulumi • HashiCorp Vault
-```
-
-</details>
-
-<details>
-<summary><b>⚡ Data Engineering & Analytics</b></summary>
-
-**Real-time Data Pipeline**
-```
-Apache Kafka • Apache Pulsar • Apache Flink • Apache Spark • Delta Lake
-Snowflake • ClickHouse • TimescaleDB • Apache Druid • Apache Airflow
-```
-
-</details>
-
-<details>
-<summary><b>🤖 Robotics & Edge Computing</b></summary>
-
-**🤖 Autonomous & Mobile Robotics Stack**
-```
-Robot Operating System 2 (ROS2) • NVIDIA Jetson • PX4 Flight Controller
-Real-time Communication • Edge Computing • TinyML • Federated Learning
-CUDA Programming • OpenCV Computer Vision • Point Cloud Processing
-Path Planning • Obstacle Avoidance • Simultaneous Localization and Mapping
-```
-
-**🎯 Computer Vision & Image Analysis**
-```
-Image Classification • Object Detection • Semantic Segmentation
-3D Vision Systems • Stereo Vision • Depth Estimation
-Medical Imaging • Satellite Analysis • Quality Inspection
-Real-time Processing • Edge Deployment • Mobile Vision
-```
-
-</details>
-
-<details>
-<summary><b>🔒 Security & Compliance</b></summary>
-
-**Zero-Trust Architecture**
-```
-OPA (Open Policy Agent) • Sigstore • TUF • Prisma Cloud • Snyk
-Aqua Security • Falco • SIEM • SOC2 • GDPR Compliance
-```
-
-</details>
-
-<details>
-<summary><b>🌐 Modern Web & Applications</b></summary>
-
-**Full-Stack Excellence**
-```
-React • Next.js • Vue 3 • SvelteKit • Deno • FastAPI • Flask • Tauri
-WebAssembly (WASM) • Progressive Web Apps (PWA)
-```
-
-</details>
+[aideo.us/main](https://aideo.us/main)
 
 ---
 
-## 🏆 **Elite Methodologies**
+## Aicody — Enterprise and Defense AI
 
-<div align="center">
+Aicody provides research and development services to enterprise and defense clients across computer vision, object detection, real-time video processing, and autonomous systems integration. Aicody serves as the technical delivery arm of the Xory portfolio for government and institutional programs.
 
-| **Development** | **Operations** | **Artificial Intelligence** |
-|:---:|:---:|:---:|
-| Test-Driven Development | Machine Learning Operations | Model Training & Deployment |
-| Code Review Standards | DevOps & Infrastructure | Computer Vision Pipelines |
-| Domain-Driven Design | Site Reliability Engineering | Continuous Model Improvement |
-
-</div>
+[aicody.com/main](https://aicody.com/main)
 
 ---
 
+## HXA — Digital Currency
 
+HXA is an independent digital currency built for fast, private, and borderless transactions with a fixed coin supply and no inflationary issuance mechanism. HXA has not yet launched publicly. The company currently holds $10 billion in proprietary pre-launch cryptocurrency, which serves as backing for investor agreements, customer commitments, and commercial arrangements across the Xory portfolio.
 
-## 🌟 **Why Join Xory?**
-
-<table>
-<tr>
-<td width="33%">
-
-### 🚀 **Cutting-Edge Innovation**
-- Work with **state-of-the-art AI models**
-- Pioneer **robotics breakthroughs**
-- Shape the **future of technology**
-- Access to **premium compute resources**
-
-</td>
-<td width="33%">
-
-### 🌍 **Global Impact**
-- **Humanitarian-focused** projects
-- **Open-source contributions**
-- **Research publications**
-- **Conference presentations**
-
-</td>
-<td width="33%">
-
-### 💼 **Elite Environment**
-- **World-class talent** network
-- **Flexible remote-first** culture
-- **Competitive compensation**
-- **Equity participation**
-
-</td>
-</tr>
-</table>
+[hxa.us/docs](https://hxa.us/docs)
 
 ---
 
-## 📈 **Current Focus Areas**
+## Funding and Valuation
 
-```mermaid
-mindmap
-  root((XORY 2025))
-    Generative Artificial Intelligence
-      Multimodal Models
-      Code Generation
-      Scientific Discovery
-    Autonomous Systems
-      Self-Driving Vehicles
-      Drone Technology
-      Industrial Robots
-    Computer Vision
-      Real-time Processing
-      Medical Imaging
-      Quality Control
-    Edge Computing
-      Real-time Inference
-      Mobile Deployment
-      Internet of Things Integration
-```
+Xory has raised $14.4 million across three rounds: $3 million at a $20 million pre-money valuation in 2019, $5 million at $40 million pre-money in 2021, and $6.4 million at $57 million pre-money in 2023. The company is currently raising $5 million to $20 million at a $90 million pre-money valuation to accelerate commercialization and expand into Europe, Asia, and the Middle East.
 
 ---
 
-## 🎯 **Talent We're Seeking**
+## Contact
 
-<div align="center">
-
-**🔥 HIGH-DEMAND ROLES 🔥**
-
-| **Artificial Intelligence Engineers** | **Robotics Engineers** | **Platform Engineers** |
-|:---:|:---:|:---:|
-| Large Language Model Specialists | Controls Engineers | DevOps Engineers |
-| Computer Vision Engineers | Perception Engineers | Cloud Architects |
-| Natural Language Processing | Motion Planning Engineers | Security Engineers |
-| Machine Learning Operations | Hardware Integration | Full-Stack Developers |
-
-**💰 Competitive packages • 📈 Equity upside • 🌴 Unlimited PTO**
-
-</div>
+**Email:** team@xory.us · team@aicody.com · team@aideo.us
+**Phone:** 1-415-952-7773 · 1-415-439-0773 · 1-332-203-3337 · 1-307-429-2424
+**Address:** 5 Thomas Mellon Circle, Suite 154, San Francisco CA 94134 USA
 
 ---
 
-### **Learn More About Our Technologies**
-
-[![Computer Vision Guide](https://img.shields.io/badge/📸%20Computer%20Vision-Learn%20More-9B59B6?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Robotics Resources](https://img.shields.io/badge/🤖%20Robotics-Resources-FF9800?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
-[![Autonomous Systems](https://img.shields.io/badge/🚗%20Autonomous%20Systems-Explore-795548?style=for-the-badge&logo=self-driving-car&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/)
-[![Video Processing](https://img.shields.io/badge/📹%20Video%20Processing-Discover-E91E63?style=for-the-badge&logo=video&logoColor=white)](https://ffmpeg.org/)
-
-### **Our Ecosystem**
-
-[![Aicody](https://img.shields.io/badge/🧠%20Aicody-Artificial%20Intelligence-FF6B6B?style=for-the-badge)](https://aicody.com/main/)
-[![Xory](https://img.shields.io/badge/🚀%20Xory-Robotics%20Consortium-4ECDC4?style=for-the-badge)](https://xory.us/main/)
-[![Aideo](https://img.shields.io/badge/💡%20Aideo-Innovation%20Lab-45B7D1?style=for-the-badge)](https://aideo.us/main/)
-[![Aid Platform](https://img.shields.io/badge/🛠%20Aid-Development%20Tools-9B59B6?style=for-the-badge)](https://aid.aideo.us/)
-
-### **Connect With Us**
-
-[![LinkedIn Aicody](https://img.shields.io/badge/LinkedIn-Aicody-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aicody/about/)
-[![LinkedIn Xory](https://img.shields.io/badge/LinkedIn-Xory-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/xoryus/about/)
-
-### **Contact Us**
-
-📧 **Email**: team@xory.us | team@aicody.com | team@aideo.us  
-
-📱 **Phone/Text**: 1-415-952-7773 | 1-415-439-0773 | 1-332-203-3337 | 1-307-429-2424 
-
-📍 **Address**: 5 Thomas Mellon Circle, Suite 154, San Francisco CA 94134 USA
-
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-### *"The best way to predict the future is to invent it."*
-
-**🌟 Star our repos if you believe in our mission! 🌟**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Xory-us&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Xory-us?style=for-the-badge&color=blue&labelColor=000000)](https://github.com/Xory-us)
-
----
-
-**©️ 2025 Xory Co. • Innovating Artificial Intelligence & Robotics Systems • Serving Humanity**
-
-*Built with 💜 by the Xory Team*
-
-</div>
+© 2025 Xory Co. All rights reserved.
