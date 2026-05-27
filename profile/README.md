@@ -1,6 +1,6 @@
 # Xory Co.
 
-**Technology Holdings in Autonomous Systems, Real-Time AI, and Digital Currency**
+**Autonomous Vehicles, Real-Time Systems, and Digital Currency**
 
 [Portfolio](https://youtu.be/78Y5ukojlSM) · [Xory](https://xory.us/main) · [AWZ](https://awz.us/docs) · [Aideo](https://aideo.us/main) · [Aicody](https://aicody.com/main) · [HXA](https://hxa.us/docs) · [5AI](https://5ai.us/main)
 
