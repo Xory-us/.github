@@ -57,7 +57,9 @@ Xory has raised $14.4 million across three rounds: $3 million at a $20 million p
 ## Contact
 
 **Email:** team@xory.us · team@aicody.com · team@aideo.us
+
 **Phone:** 1-415-952-7773 · 1-415-439-0773 · 1-332-203-3337 · 1-307-429-2424
+
 **Address:** 5 Thomas Mellon Circle, Suite 154, San Francisco CA 94134 USA
 
 ---
