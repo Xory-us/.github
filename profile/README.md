@@ -64,4 +64,4 @@ Xory has raised $14.4 million across three rounds: $3 million at a $20 million p
 
 ---
 
-© 2025 Xory Co. All rights reserved.
+© 1997-2026 Xory Co. All rights reserved.
